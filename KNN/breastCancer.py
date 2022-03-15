@@ -141,9 +141,3 @@ acc = accuracy_score(Y_test,y_pred)
 print("Score: %",acc*100)
 print("CM: ",cm)
 print("Basic KNN Acc: ",acc)
-
-
-
-
-
-
